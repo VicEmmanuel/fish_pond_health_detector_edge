@@ -133,7 +133,7 @@ The exported files are stored in:
 ### 6.2 Steps (Flutter)
 
 ```bash
-git clone https://github.com/VicEmmanuel/fish_pond_health_detector_edge
+git clone https://github.com/VicEmmanuel/fish_pond_health_detector_edge.git
 cd fishpond-health-detector-edge/mobile-app/fishpond_edge
 
 # Install dependencies
